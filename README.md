@@ -1,2 +1,2 @@
-# Analisis-y-Dise-o-de-Algo.
+# Analisis-y-Diseño-de-Algo.
 Codigos de clase | practicas
